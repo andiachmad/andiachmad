@@ -1,4 +1,4 @@
-# Hi 👋, I'm Andi Yanuar
+# Hi, I'm Andi Yanuar 👋
 Highly interested in the field of data and queries, which involves performing analytical output or pipeline optimization.
 
 <div align="center">
