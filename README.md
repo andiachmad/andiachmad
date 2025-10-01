@@ -21,7 +21,7 @@ Passionate about transforming complex data into actionable insights, with expert
       <td align="center">
         <img src="https://github.com/user-attachments/assets/1a2bd265-8d47-4fa5-b80f-ec4305816157" width="280" />
         <h4>Business & Analytics Showcase</h4>
-        <p>Processed raw data from each case study, performed data preprocessing, and transformed it into actionable business insights through dashboards that reflect business needs and key performance indicators.</p>
+        <p>Processed raw data from each case study, performed data preprocessing, and transformed it into actionable business insights through dashboards that reflect business needs.</p>
         <a href="https://github.com/andiachmad/Analytics-Showcase">🔗 View Project</a>
       </td>
       <td align="center">
