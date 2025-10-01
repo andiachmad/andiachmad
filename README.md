@@ -14,35 +14,21 @@ Passionate about transforming complex data into actionable insights, with expert
   </table>
 </div>
 
-### Projects & Dashboards
+## Highlighted Project
 <div align="center">
   <table>
     <tr>
       <td align="center">
-        <img src="https://via.placeholder.com/300x150.png?text=Project+1" width="300" />
-        <h4>Project Name 1</h4>
-        <p>Brief description of project 1, highlighting data pipelines, BI dashboards, or analytics solutions.</p>
-        <a href="#">🔗 View Project</a>
+        <img src="https://github.com/user-attachments/assets/1a2bd265-8d47-4fa5-b80f-ec4305816157" width="280" />
+        <h4>Business & Analytics Showcase</h4>
+        <p>Processed raw data from each case study, performed data preprocessing, and transformed it into actionable business insights through dashboards that reflect business needs and key performance indicators.</p>
+        <a href="https://github.com/andiachmad/Analytics-Showcase">🔗 View Project</a>
       </td>
       <td align="center">
-        <img src="https://via.placeholder.com/300x150.png?text=Project+2" width="300" />
-        <h4>Project Name 2</h4>
-        <p>Brief description of project 2, focusing on database management or system design achievements.</p>
-        <a href="#">🔗 View Project</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://via.placeholder.com/300x150.png?text=Project+3" width="300" />
-        <h4>Project Name 3</h4>
-        <p>Brief description of project 3, such as dashboards or analytics projects.</p>
-        <a href="#">🔗 View Project</a>
-      </td>
-      <td align="center">
-        <img src="https://via.placeholder.com/300x150.png?text=Project+4" width="300" />
-        <h4>Project Name 4</h4>
-        <p>Brief description of project 4, including system analysis, design, or BI solutions.</p>
-        <a href="#">🔗 View Project</a>
+        <img src="https://github.com/user-attachments/assets/2c0c7e0a-8b7d-4416-bde7-a7b9aff0845d" width="600", height="600"/>
+        <h4>Data Warehouse - Medallion Layer</h4>
+        <p>Hands-on data warehouse project using medallion architecture from Bronze to Gold, producing fact tables (star schema) and data marts to support ML, ad-hoc analysis, and dashboards.</p>
+        <a href="https://github.com/andiachmad/medallion-warehouse?tab=readme-ov-file">🔗 View Project</a>
       </td>
     </tr>
   </table>
